@@ -97,9 +97,9 @@ Worked on various web-based systems:
 
 ### 🚀 Highlight Projects
 - 🏥 **SIMRS Application (Hospital Information System)** — Laravel + Vue.js  
-- 🧾 **Court Information System (PTUN Jakarta)** — Laravel  
-- 🛒 **E-commerce Applications** — Laravel, CodeIgniter  
-- 📦 **Inventory & Warranty System** — Laravel  
+- 🧾 **Content Management System (PTUN Serang)** — Codeigniter  
+- 🛒 **E-commerce Applications** — Laravel
+- 📦 **Inventory & Warranty System** — Laravel + Livewire
 
 More projects on 🔗 [GitLab](https://gitlab.com/IdhamAzizMarlin)
 
