@@ -27,7 +27,7 @@ I love crafting **clean, scalable, and efficient systems**, exploring modern tec
 
 - 🏥 **SIMRS (Hospital Information System)**  
   Developing an integrated system for hospital management including patient, billing, and reporting modules.  
-  **Tech:** CodeIgniter 4 · JavaScript · MySQL · MongoDB · Redis
+  **Tech:** Laravel · CodeIgniter 4 · JavaScript · MySQL · SqlServer · MongoDB · Redis
 
 - 📊 **Monitoring & Evaluation System for Bappeda**  
   Building a government monitoring and evaluation platform for strategic project tracking.  
