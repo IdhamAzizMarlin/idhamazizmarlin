@@ -74,7 +74,7 @@ I love crafting **clean, scalable, and efficient systems**, exploring modern tec
 
 ### 💼 Work Experience
 
-**Full Stack Programmer — PT. Lawang Berkah Abadi (Feb 2022 - Present)**  
+**Full Stack Programmer — PT. Lawang Berkah Kreasi (Feb 2022 - Present)**  
 Develop SIMRS Application and Monitoring Evaluation (MONEV)
 
 **Backend Engineer — PT Yuk Laundry Online (Jan 2024 - Jan 2025)**  
