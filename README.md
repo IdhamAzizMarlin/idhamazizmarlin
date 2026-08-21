@@ -257,14 +257,6 @@ I have worked with various mission-critical integrations:
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=IdhamAzizMarlin&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=IdhamAzizMarlin&theme=tokyonight" />
-</p>
-
----
-
 ## 🌱 Currently Exploring
 - Golang
 - Vue & TypeScript for modern frontend stack  
