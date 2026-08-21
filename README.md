@@ -146,15 +146,28 @@ Bootstrap 5 | JavaScript
 
 ---
 
-### 🏭 SIVIKI
+### 🏭 SITIREQ — Tariff Rate Quota Information System
 
-Industrial Verification Information System used for nationwide verification and monitoring activities.
+Enterprise web-based platform for managing import quota allocation and industrial verification processes under the Indonesia–UAE CEPA (IUAE-CEPA).
+
+Contributions:
+- Developed and maintained a multi-stage industrial verification workflow covering company submissions, field verification, approval, and reporting processes.
+- Built centralized company profiles and verification data management across multiple business processes.
+- Implemented scheduling and assignment workflows for verification teams, including document attachments and task tracking.
+- Developed import realization and quota monitoring based on HS Code, KBLI, and port of entry.
+- Built KPI dashboards, statistical reports, and geographic visualization for monitoring verification and quota distribution.
+- Automated generation of regulatory and operational documents such as **SKVI, LHVI, contracts, invoices, PDF reports, and Excel reports**.
+- Implemented document management and bulk document export for verification processes.
+- Developed **Role-Based Access Control (RBAC)** and audit trails for secure and traceable operations.
+- Implemented real-time notifications and asynchronous processing using Redis.
+- Designed backend services and APIs to support a Vue.js SPA architecture and future integration with external government platforms such as **SIINas and SINSW**.
+- Maintained and extended an existing enterprise system while handling architecture improvements, bug fixing, feature development, and production deployment.
 
 ### Technologies
 
 ```text
-Laravel 12 | Vue.js
-MySQL | Redis
+Laravel 12 | Vue 3
+MySQL | Redis | Docker
 ```
 
 ---
